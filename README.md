@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi. 👋
+
+If you're reading this, you probably know who I am. If you don't, then you don't know. That's fine too.
 
 <!--
 **ChristianCavadi/ChristianCavadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
